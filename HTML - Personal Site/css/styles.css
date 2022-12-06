@@ -1,0 +1,15 @@
+body {
+  background-color: #5c5c5cf7;
+}
+hr {
+  background-color: none;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 20%;
+}
+h1 {
+  color:cornsilk;
+}
+h3 {
+  color: cornsilk;
+}
